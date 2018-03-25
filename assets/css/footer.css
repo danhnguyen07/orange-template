@@ -1,0 +1,19 @@
+.footer {
+  width: 1200px;
+}
+
+.site {
+  border-bottom: 1px solid red;
+}
+.footer ul {
+   list-style: none;
+}
+
+.footer ul li {
+  
+}
+
+.footer ul li a {
+  text-decoration: none;
+
+}
